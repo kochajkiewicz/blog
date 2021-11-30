@@ -1,7 +1,7 @@
 ---
 title: "Fear-driven design"
 date: 2021-11-30T23:11:35.246Z
-description: When getting to the end is a result in itself.
+description: When getting to the end feels like a result in itself.
 ---
 
 Before I ever worked embedded on an Agile team with a distinctly backend focus, or served, dejected, on a product team in a sales-led org, I had the chance to  practice what has to be the worst design methodology out there.
